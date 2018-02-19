@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pyImage.iml" filepath="$PROJECT_DIR$/.idea/pyImage.iml" />
+      <module fileurl="file://D://GitHub/../../Github/pyImage/.idea/pyImage.iml" filepath="D://GitHub/../../Github/pyImage/.idea/pyImage.iml" />
     </modules>
   </component>
 </project>
