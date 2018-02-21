@@ -30,7 +30,7 @@ if __name__ == '__main__':
     print(result)
     print(sys.argv)
 
-    ssss11223344556666 = sys.argv
+    ssss112233445566667777 = sys.argv
 
 #for i in s.split(','):
 #    print (i+ " "+sys.argv[i])
